@@ -1,42 +1,28 @@
-# 🛡️ AramLabs Studio | Engineering Intelligence
+🛡️ AramLabs Studio | Systems Architecture & Interface Design
+"Engineering high-performance digital cockpits for complex operational environments."
+I am a Systems Architect focused on the intersection of Technical Logistics and Modern Interface Design. Drawing from a background in Military Operations and Industrial Engineering (Thermoking), I build high-fidelity "Command Centers" that simplify complex data into actionable intelligence.
 
-### "The era of the static interface is over. I am architecting the Adaptive Cockpit."
+💎 The Vision: "Precision Control"
+I specialize in Operational Orchestration. My mission is to reduce the "Cognitive Load" on operators by building interfaces that feel like high-performance machinery.
 
-I am an **AI Systems Architect** and **A2UI Protocol Specialist**. I lead the shift from bloated, fixed Web Apps to dynamic, intent-driven **Systems of Intelligence**. I bridge the gap between **Probabilistic AI** and **Deterministic Engineering** using my signature "Supercar-Luxury" UI standard.
+Tactile Interface Design: Developing a signature library of 3D/Mechanical React components designed for high-stakes environments where clarity and precision are non-negotiable.
+State Orchestration: Implementing robust logic flows (Zustand + LangGraph) to ensure that complex system data and user interfaces remain in perfect synchronization.
+Industrial Aesthetics: Applying "Supercar-Inspired" design principles to enterprise software to increase user engagement and reduce operational errors.
+🚀 Current R&D: The Operational Command Center
+I am currently developing a standardized framework for "Operational Cockpits"—interfaces designed for real-time monitoring and decision-making in technical industries.
 
----
+[AramLabs Signature UI] — Active Development: A premium, data-bound component library designed for industrial dashboards and monitoring systems.
+[Project: Adaptive Logic Layers] — In Research: Exploring how modular logic can adapt dashboard views based on different technical user roles (Technicians, Managers, Directors).
+🛠️ The Technical Stack
+Frontend: Next.js (App Router), React, TypeScript, Framer Motion (Skeuomorphic & 3D UI).
+Logic & State: Zustand, LangGraph.js, Logic-Flow Mapping.
+Backend & Data: Supabase (PostgreSQL, Realtime), Edge Computing.
+Design Philosophy: Skeuomorphism, Industrial Design, High-Contrast Data Visualization.
+🧠 The Philosophy: "Engineering Clarity"
+I believe that software should feel like a well-engineered tool. My approach is rooted in Industrial Reliability. I don't just build web pages; I architect Control Systems that treat data as fuel and the interface as a high-performance cockpit.
 
-## 💎 The Vision: "Zero Interface Tax"
-I specialize in the **"Pivot to Orchestration."** My mission is to eliminate the friction between human intent and machine execution.
-
-- **A2UI Protocol Implementation:** I develop systems where the UI is not a static cage, but a dynamic "Surface" that projects itself based on real-time AI reasoning.
-- **The Neural Bridge:** Implementing high-performance state synchronization (Zustand + LangGraph) to ensure the AI's "Brain" and the UI's "Body" are perfectly aligned.
-- **Tactile AI Feedback:** Using my signature 3D/Mechanical React components to provide high-fidelity, real-time visualization for autonomous agent processes.
-
----
-
-## 🚀 Current R&D: The Agentic Command Center
-*I am currently refactoring production standards for the AI-Native era, focusing on "Operational Cockpits" that solve complex business friction.*
-
-- **[AramLabs Signature UI]** — *Active Development:* A premium, data-bound component library designed as the "DNA" for AI-generated interfaces.
-- **[Project: A2UI-Native Framework]** — *In Research:* A Next.js 15 framework designed to orchestrate multi-agent workflows through a single, high-fidelity projection layer.
-
----
-
-## 🛠️ The AI-Native Stack (The Standard)
-- **Orchestration:** LangGraph.js, Multi-Agent Workflows, A2UI Protocol.
-- **Intelligence:** Google Gemini 1.5 Pro, Vercel AI SDK, Context Engineering.
-- **Frontend:** Next.js 15 (App Router), React Server Components, Framer Motion (Skeuomorphic 3D).
-- **Infrastructure:** Supabase (PostgreSQL, Realtime, Vector), Edge-First Architecture.
-
----
-
-## 🧠 The Philosophy: "Architecting Intent"
-The future of development isn't in "painting pixels," but in **Architecting Intent**. I build systems that treat AI as the engine and the GUI as the high-performance cockpit. I don't just build apps; I build **Adaptive Intelligence.**
-
----
-
-## 📬 Connect with the Studio
-- **Location:** Costa del Sol, Spain 🇪🇸
-- **Email:** alainramos073@gmail.com
-- **Web:** [aramlabs.dev](https://aramlabs.dev) — *Currently being rebuilt as a full A2UI-Native experience.*
+📬 Connect with the Studio
+Location: Costa del Sol, Spain 🇪🇸
+Languages: FR | NL | EN | ES | PT
+Email: alainramos073@gmail.com
+Web: aramlabs.dev
