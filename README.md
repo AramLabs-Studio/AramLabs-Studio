@@ -15,6 +15,8 @@ I specialize in **Operational Orchestration**. My mission is to reduce the "Cogn
 - **Industrial Aesthetics:** Applying "Supercar-Inspired" design principles to enterprise software to increase user engagement and reduce operational errors.
 - **🚀 Current R&D:** The **Operational Command Center** — I am currently developing a standardized framework for "Operational Cockpits"—interfaces designed for real-time monitoring and decision-making in technical industries.
 
+- **🔬 A2UI Protocol Research:** Investigating the "Agent-to-User Interface" (A2UI) standard. I am developing patterns for how autonomous AI agents (LangGraph) should "render" their internal state, confidence levels, and decision-making paths into a high-precision industrial UI.
+
 ---
 
 ### 🛠️ The Technical Stack
