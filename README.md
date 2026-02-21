@@ -1,33 +1,55 @@
 # ⚡ Alain Ramos | AramLabs Studio
-### Systems Architect & Interface Design
+### Aspiring Systems Architect & Interface Design Student
 
 "Engineering high-performance digital cockpits for complex operational environments."
 
-I am a **Systems Architect** focused on the intersection of **Technical Logistics** and **Modern Interface Design**. Drawing from a background in **Military Operations (Green Beret)** and **Industrial Engineering (ThermoKing)**, I build high-fidelity "Command Centers" that simplify complex data into actionable intelligence.
+I'm a **52-year-old career changer** on a mission to become the most skilled AI engineer on the Costa del Sol. With a background in **Military Operations (Green Beret)** and **Industrial Engineering (ThermoKing)**, I bring discipline and systems thinking to my new path in tech.
+
+One year ago, I started learning to code. Today, I'm a dedicated **student** building production-ready web applications and diving deep into AI engineering. I'm not a professional yet—just someone obsessed with mastering this craft.
 
 ---
 
-### 🎯 The Vision: "Precision Control"
-I specialize in **Operational Orchestration**. My mission is to reduce the "Cognitive Load" on operators by building interfaces that feel like high-performance machinery.
+### 🎯 The Journey: From Vibe Coder to AI Engineer
 
-- **Tactile Interface Design:** Developing a signature library of 3D/Mechanical React components designed for high-stakes environments where clarity and precision are non-negotiable.
-- **State Orchestration:** Implementing robust logic flows (Zustand + LangGraph) to ensure that complex system data and user interfaces remain in perfect synchronization.
-- **Industrial Aesthetics:** Applying "Supercar-Inspired" design principles to enterprise software to increase user engagement and reduce operational errors.
-- **🚀 Current R&D:** The **Operational Command Center** — I am currently developing a standardized framework for "Operational Cockpits"—interfaces designed for real-time monitoring and decision-making in technical industries.
+**Current Focus:**
+- 🤖 **Agentic AI Development** — Learning to build real AI agents using Python, LangGraph, and modern LLMs (Claude, Kimi 2.5)
+- 🎨 **Mechanical UI/UX** — Crafting tactile, high-performance interfaces that feel like precision machinery
+- 🐍 **Python Mastery** — Expanding beyond frontend into full-stack AI engineering
 
-- **🔬 A2UI Protocol Research:** Investigating the "Agent-to-User Interface" (A2UI) standard. I am developing patterns for how autonomous AI agents (LangGraph) should "render" their internal state, confidence levels, and decision-making paths into a high-precision industrial UI.
-
----
-
-### 🛠️ The Technical Stack
-- **Frontend:** Next.js 16 (App Router), React 19, TypeScript, Framer Motion (Skeuomorphic & 3D UI)
-- **Logic & State:** Zustand, LangGraph.js, Logic-Flow Mapping
-- **Backend & Data:** Supabase (PostgreSQL, Realtime), Edge Computing
-- **Design Philosophy:** "Composite, Don't Paint" — GPU-optimized rendering for industrial-grade performance.
+**Learning Tools:**
+- CodeLLM, Claude Code, Open Code, Antigravity, VS Code
+- Open-source frameworks and hands-on project building
 
 ---
 
-### 🇪🇸 The Mission: AramLabs Academy
-I am currently developing **WasteWatcher**, an AI-powered waste reduction platform. My long-term goal is to establish the **AramLabs Academy in Fuengirola, Spain**, providing free, high-level education in AI Agentic Orchestration and Modern Web Development to empower the next generation of Spanish engineers.
+### 🚀 Current Focus: Building in Private
 
-📫 **Connect with the Studio:** [alainramos073@gmail.com](mailto:alainramos073@gmail.com) | Costa del Sol, Spain
+I'm currently working on **WasteWatcher** — an AI-powered waste reduction platform — as a private learning project. Once I've solidified my skills, I plan to release public repositories showcasing my work in agentic AI and industrial UI design.
+
+---
+
+### 🛠️ Technical Stack (Always Expanding)
+
+| Frontend | AI/Backend | Design Philosophy |
+|----------|-----------|-------------------|
+| Next.js 16, React 19, TypeScript | Python, LangGraph, LangChain | "Composite, Don't Paint" |
+| Framer Motion, 3D UI | Supabase, PostgreSQL | GPU-optimized rendering |
+| Zustand, State Management | Edge Computing, Realtime | Industrial aesthetics |
+
+---
+
+### 🎓 The Dream: AramLabs Academy
+
+Long-term vision: Establish **AramLabs Academy in Fuengirola, Spain** — a free, high-level school for AI Agentic Orchestration and Modern Web Development.
+
+I want to empower the next generation of Spanish engineers, especially career-changers like myself who thought it was "too late" to start.
+
+---
+
+### 📝 A Note on Where I Am
+
+I'm not an AI engineer yet. I'm a **student**. A serious one. I share my work to learn, connect, and document the journey from zero to mastery at 52.
+
+If you're on a similar path—or further ahead and willing to share wisdom—I'd love to connect.
+
+📫 **alainramos073@gmail.com** | Costa del Sol, Spain
