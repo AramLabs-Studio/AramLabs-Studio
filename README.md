@@ -17,7 +17,7 @@ One year ago, I started learning to code. Today, I'm a dedicated **student** bui
 - 🐍 **Python Mastery** — Expanding beyond frontend into full-stack AI engineering
 
 **Learning Tools:**
-- CodeLLM, Claude Code, Open Code, Antigravity, VS Code
+- Cursor, Claude, Kimi 2.5, VS Code
 - Open-source frameworks and hands-on project building
 
 ---
